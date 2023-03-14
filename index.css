@@ -1,0 +1,19 @@
+.container{
+    background-color: brown;
+    width:20vw;
+    padding:30px;
+    color:azure;
+    position: relative;
+    left:39vw;
+    top:20vh;
+    display: flex;
+    flex-flow:column wrap;
+    justify-content: center;
+    align-items: center;
+}
+#result{
+    background-color: blanchedalmond;
+    color:black;
+    width:fit-content;
+    padding:30px;
+}
